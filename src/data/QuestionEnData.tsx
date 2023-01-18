@@ -35,7 +35,7 @@ export const QuestionEnData = [
   },
   {
     question:
-      "I'm black, I have highlights, can I use the Violeta Seda Protein Facinnius line?",
+      "I'm black, I have highlights, can I use the Violeta silk Protein Facinnius line?",
     answer:
       'Yes, because the Violeta Silk Protein Facinnius is indicated for all types of locks.'
   },

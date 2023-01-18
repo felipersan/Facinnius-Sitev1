@@ -60,7 +60,7 @@ export const ProdutosBrData = [
 		id: 1, // auto increment
 		idproduto: 1,
 		title: 'S.O.S ULTIMATE STAGE MÁSCARA DE HIDRATAÇÃO',
-		descricao: 'Ideal para cabelos danificados por químicas, possui mais de 20 ativos hidratantes. Age como tratamento de reposição de massa (TRM), contém 14 aminoácidos, além de queratina hidrolisada, contém D-pantenol, silicones nobres solúveis em água, polímeros naturais, além de vegetais hidrolisados.',
+		descricao: 'Ideal para cabelos danificados por químicas, possui mais de 20 ativos hidratantes. Age como tratamento de reposição de massa (TRM), contém 14 aminoácidos, além de queratina hidrolisada, contém D-pantenol, silicones nobres solúveis em água, polímeros naturais, além de vegetais hidrolisados. INDICADO PARA RECONSTRUÇÃO CAPILAR, PARA CABELOS DANIFICADOS',
 		filtros: ['HomeCare'],
 		versões: 'Versão: 250gr – Home Care',
 		colecao: [item1],
@@ -70,7 +70,7 @@ export const ProdutosBrData = [
 		id: 2, // auto increment
 		idproduto: 1,
 		title: 'S.O.S ULTIMATE STAGE MÁSCARA DE HIDRATAÇÃO',
-		descricao: 'Ideal para cabelos danificados por químicas, possui mais de 20 ativos hidratantes. Age como tratamento de reposição de massa (TRM), contém 14 aminoácidos, além de queratina hidrolisada, contém D-pantenol, silicones nobres solúveis em água, polímeros naturais, além de vegetais hidrolisados.',
+		descricao: 'Ideal para cabelos danificados por químicas, possui mais de 20 ativos hidratantes. Age como tratamento de reposição de massa (TRM), contém 14 aminoácidos, além de queratina hidrolisada, contém D-pantenol, silicones nobres solúveis em água, polímeros naturais, além de vegetais hidrolisados. INDICADO PARA RECONSTRUÇÃO CAPILAR, PARA CABELOS DANIFICADOS',
 		filtros: ['Profissional'],
 		versões: 'Versão: 1kg - Profissional',
 		colecao: [item1_1],
@@ -427,7 +427,7 @@ export const ProdutosBrData = [
 		title: 'RECONSTRUÇÃO CAPILAR BIFÁSICO - INFINITY ONE',
 		descricao: 'O Infinity One Facinnius é um excelente reconstrutor capilar com ação antioxidante que repara o desgaste e envelhecimento dos fios. Possui textura aveludada e deixa um toque de seda nos cabelos, mantendo-os livres de frizz. Contém filtro protetos UVA e UVB. Além  de ser um protetor térmico e solar, por conter 11 aminoácidos e proteínas vegetais hidrolisadas, também conta com uma tecnologia única, o uso contínuo traz reconstrução ao fio, pois os princípios ativos por ter muita afinidade com o fio, vão se sobrepondo e causando assim um aumento na espessura dos fios. INDICADO PARA RECONSTRUÇÃO, REPOSIÇÃO DE MASSA E PROTEÇÃO UVA/UVB.',
 		filtros: ['HomeCare', 'Profissional'],
-		versões: 'Versão: 100ML – Home Care/Professional',
+		versões: 'Versão: 100ML – Home Care/Profissional',
 		colecao: [item24],
 		imagem: item24
 	},

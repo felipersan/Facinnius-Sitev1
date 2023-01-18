@@ -215,7 +215,7 @@ export const ProdutosEnData = [
 	{
 		id: 13, // auto increment
 		idproduto: 8,
-		title: 'SHAMPOO AND LIQUID MASK - VIOLET SILK PROTEIN',
+		title: 'VIOLET SILK PROTEIN - SHAMPOO AND LIQUID MASK',
 		descricao: 'Violet Silk Protein Facinnius acts on two important factors for bleached hair: uniform color and hydration.  Its nanotechnological pigments remove the yellowness of the blonde strands, giving the hair a platinum appearance.  In addition, it moisturizes and provides more elasticity to the wires.',
 		filtros: ['HomeCare'],
 		versões: 'Version: Fl.oz 10,14 - Home Care',
@@ -226,7 +226,7 @@ export const ProdutosEnData = [
 	{
 		id: 14, // auto increment
 		idproduto: 8,
-		title: 'SHAMPOO AND LIQUID MASK - VIOLET SILK PROTEIN',
+		title: 'VIOLET SILK PROTEIN - SHAMPOO AND LIQUID MASK',
 		descricao: 'Violet Silk Protein Facinnius acts on two important factors for bleached hair: uniform color and hydration.  Its nanotechnological pigments remove the yellowness of the blonde strands, giving the hair a platinum appearance.  In addition, it moisturizes and provides more elasticity to the wires.',
 		filtros: ['Profissional'],
 		versões: 'Version: Fl.oz 33,81 - Professional',
@@ -348,7 +348,7 @@ export const ProdutosEnData = [
 	{
 		id: 23, // auto increment
 		idproduto: 16,
-		title: 'SHAMPOO AND CONDITIONER - BLACKBERRY WITH POMEGRANATE ',
+		title: 'BLACKBERRY WITH POMEGRANATE - SHAMPOO AND CONDITIONER',
 		descricao: 'Ideal for mixed hair, it provides hydration and intense shine to the strands.  It keeps the hair hydrated and replenishes fiber vitamins.  It has antioxidant action, preserving the health and structure of the hair.',
 		filtros: ['HomeCare'],
 		versões: 'Version: Fl.oz 10,14 – Home Care',
@@ -361,7 +361,7 @@ export const ProdutosEnData = [
 	{
 		id: 24, // auto increment
 		idproduto: 17,
-		title: 'SHAMPOO AND CONDITIONER - BLUEBERRY',
+		title: 'BLUEBERRY - SHAMPOO AND CONDITIONER',
 		descricao: 'Ideal for dry hair, Blueberry Facinnius has a balanced Ph that promotes efficient cleaning of the  hair without damaging it.  Its balanced formulation contains nutrients and lino semi, active from linseed that prevents the loss of water from the hair.  Provides deep and prolonged hydration, bringing lightness and movement to your hair.',
 		filtros: ['HomeCare'],
 		versões: 'Version: Fl.oz 10,14 – Home Care',
@@ -374,7 +374,7 @@ export const ProdutosEnData = [
 	{
 		id: 25, // auto increment
 		idproduto: 18,
-		title: 'SHAMPOO AND CONDITIONER - MINT WITH MENTHOL',
+		title: 'MINT WITH MENTHOL - SHAMPOO AND CONDITIONER',
 		descricao: 'Ideal for oily hair, it has detoxifying and refreshing components.  It works by balancing the oiliness of the scalp, providing hydration to the strands without weighing them down.',
 		filtros: ['HomeCare'],
 		versões: 'Version: Fl.oz 10,14 – Home Care',
@@ -413,7 +413,7 @@ export const ProdutosEnData = [
 	{
 		id: 28, // auto increment
 		idproduto: 21,
-		title: 'SHAMPOO AND CONDITIONER - DETOX REFRESH',
+		title: 'DETOX REFRESH - SHAMPOO AND CONDITIONER',
 		descricao: 'With a detoxifying formula, Detox Refresh Facinnius promotes an anti-pollution action, leaving a pleasant sensation of freshness and lightness. It can be used daily to balance the oiliness of the hair and scalp.',
 		filtros: ['HomeCare'],
 		versões: 'Version: Fl.oz 10,14 – Home Care/Professional',
@@ -426,7 +426,7 @@ export const ProdutosEnData = [
 	{
 		id: 29, // auto increment
 		idproduto: 22,
-		title: 'SHAMPOO AND CONDITIONER - INFINITY ONE',
+		title: 'INFINITY ONE - SHAMPOO AND CONDITIONER',
 		descricao: 'The Infinity One Facinnius line has an exclusive formula composed of proteins and structural amino acids (serine, glutamic acid and cysteine), performing biomimetic repair. Its main asset ReparAge penetrates deeply into the hair fiber promoting the increase in the diameter of the strands with prolonged use of the product. With the Pro Filter effect that repairs the natural aging of the strands leaving them as new.',
 		filtros: ['HomeCare'],
 		versões: 'Version: Fl.oz 10,14 – Home Care/Professional',
@@ -439,7 +439,7 @@ export const ProdutosEnData = [
 	{
 		id: 30, // auto increment
 		idproduto: 23,
-		title: 'SHAMPOO AND CONDITIONER - INFINITY REPAIR',
+		title: 'INFINITY REPAIR - SHAMPOO AND CONDITIONER',
 		descricao: 'The Infinity Repair Facinnius line has an exclusive formula with 3 essential proteins (wheat, milk and silk), which attributes benefits such as strength improvement, volume increase and conditioning. The 3 joints combined with a formulation rich in ingredients that restore the hydration of the strands, indispensable for those who want shiny, healthy and soft hair.',
 		filtros: ['HomeCare'],
 		versões: 'Version: Fl.oz 10,14 – Home Care/Professional',
@@ -679,8 +679,8 @@ export const ProdutosEnData = [
 	{
 		id: 50, // auto increment
 		idproduto: 37,
-		title: 'BLUEBERRY WITH SEMI DE LINO SHAMPOO',
-		descricao: 'The Blueberry with Semi de Lino Shampoo Facinnius, has a special formula, rich in nutrients and vitamins, leaving your hair hydrated, soft and revitalized with intense shine. Yields more than 330 applications. Exclusive for washbasins.',
+		title: 'BLUEBERRY WITH SEMI DI LINO SHAMPOO',
+		descricao: 'The Blueberry with Semi di Lino Shampoo Facinnius, has a special formula, rich in nutrients and vitamins, leaving your hair hydrated, soft and revitalized with intense shine. Yields more than 330 applications. Exclusive for washbasins.',
 		filtros: ['Profissional'],
 		versões: 'Version: Fl.oz 169,07 - Professional',
 		colecao: [item37],
@@ -689,8 +689,8 @@ export const ProdutosEnData = [
 	{
 		id: 51, // auto increment
 		idproduto: 37,
-		title: 'BLUEBERRY WITH SEMI DE LINO CONDITIONER',
-		descricao: 'The Blueberry with Semi de Lino Conditioner, has a special formula, rich in nutrients and vitamins, leaving your hair hydrated, soft and revitalized with intense shine. Yields more than 330 applications. Exclusive for washbasins.',
+		title: 'BLUEBERRY WITH SEMI DI LINO CONDITIONER',
+		descricao: 'The Blueberry with Semi di Lino Conditioner, has a special formula, rich in nutrients and vitamins, leaving your hair hydrated, soft and revitalized with intense shine. Yields more than 330 applications. Exclusive for washbasins.',
 		filtros: ['Profissional'],
 		versões: 'Version: Fl.oz 169,07 - Professional',
 		colecao: [item37_1],
