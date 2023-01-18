@@ -59,7 +59,7 @@ export const ProdutosEnData = [
 	{
 		id: 1, // auto increment
 		idproduto: 1,
-		title: 'S.O.S ULTIMATE STAGE HYDRATATION MASK',
+		title: 'S.O.S ULTIMATE STAGE HYDRATION MASK',
 		descricao: 'Ideal for chemically damaged hair, it contains more than 20 moisturizing actives.  It acts as a mass replacement treatment (MRT), contains 14 amino acids, in addition to hydrolyzed keratin, contains D-panthenol, water-soluble noble silicones, natural polymers, in addition to hydrolyzed vegetables.',
 		filtros: ['HomeCare'],
 		versões: 'Version: Fl.oz 8,81 – Home Care',
@@ -70,7 +70,7 @@ export const ProdutosEnData = [
 	{
 		id: 2, // auto increment
 		idproduto: 1,
-		title: 'S.O.S ULTIMATE STAGE HYDRATATION MASK',
+		title: 'S.O.S ULTIMATE STAGE HYDRATION MASK',
 		descricao: 'Ideal for chemically damaged hair, it contains more than 20 moisturizing actives.  It acts as a mass replacement treatment (MRT), contains 14 amino acids, in addition to hydrolyzed keratin, contains D-panthenol, water-soluble noble silicones, natural polymers, in addition to hydrolyzed vegetables.',
 		filtros: ['Profissional'],
 		versões: 'Version: Fl.oz 35.27 - Professional',
@@ -84,7 +84,7 @@ export const ProdutosEnData = [
 	{
 		id: 3, // auto increment
 		idproduto: 2,
-		title: 'RECOVERY CUPUAÇU HYDRATATION MASKO',
+		title: 'CUPUAÇU RECOVERY HYDRATION MASK',
 		descricao: 'It contains cupuaçu butter, vitamins A and E to promote water balance, hydration and healthy growth for the hair.  The Cupuaçu Facinnius Recovery Mask is excellent for the treatment of dry, fragile and chemically damaged hair, as it acts deeply on the cuticle, revitalizing the hair.',
 		filtros: ['HomeCare'],
 		versões: 'Version: Fl.oz 8,81  – Home Care',
@@ -95,7 +95,7 @@ export const ProdutosEnData = [
 	{
 		id: 4, // auto increment
 		idproduto: 2,
-		title: 'RECOVERY CUPUAÇU HYDRATATION MASKO',
+		title: 'CUPUAÇU RECOVERY HYDRATION MASK',
 		descricao: 'It contains cupuaçu butter, vitamins A and E to promote water balance, hydration and healthy growth for the hair.  The Cupuaçu Facinnius Recovery Mask is excellent for the treatment of dry, fragile and chemically damaged hair, as it acts deeply on the cuticle, revitalizing the hair.',
 		filtros: ['Profissional'],
 		versões: 'Version: Fl.oz 35.27 - Professional',
@@ -106,7 +106,7 @@ export const ProdutosEnData = [
 	{
 		id: 5, // auto increment
 		idproduto: 2,
-		title: 'RECOVERY CUPUAÇU HYDRATATION MASKO',
+		title: 'RECOVERY CUPUAÇU HYDRATION MASK',
 		descricao: 'It contains cupuaçu butter, vitamins A and E to promote water balance, hydration and healthy growth for the hair.  The Cupuaçu Facinnius Recovery Mask is excellent for the treatment of dry, fragile and chemically damaged hair, as it acts deeply on the cuticle, revitalizing the hair.',
 		filtros: ['Profissional'],
 		versões: 'Version: Fl.oz 123,45 - Professional',
@@ -121,7 +121,7 @@ export const ProdutosEnData = [
 	{
 		id: 6, // auto increment
 		idproduto: 3,
-		title: 'ABSOLUT DIAMOND HYDRATATION MASK',
+		title: 'ABSOLUT DIAMOND HYDRATION MASK',
 		descricao: 'It contains noble silicones, amino acids, rosemary, juá zest, mallow and aloe. Perfect solution for dull hair, as it provides the hair a diamond shine.  A legitimate varnish bath rich in silicones and amino acids that nourish, hydrate and stimulate hair growth, leaving it silky and soft.',
 		filtros: ['HomeCare'],
 		versões: 'Version: Fl.oz 8,81  – Home Care',
@@ -132,7 +132,7 @@ export const ProdutosEnData = [
 	{
 		id: 7, // auto increment
 		idproduto: 3,
-		title: 'ABSOLUT DIAMOND HYDRATATION MASK',
+		title: 'ABSOLUT DIAMOND HYDRATION MASK',
 		descricao: 'It contains noble silicones, amino acids, rosemary, juá zest, mallow and aloe. Perfect solution for dull hair, as it provides the hair a diamond shine.  A legitimate varnish bath rich in silicones and amino acids that nourish, hydrate and stimulate hair growth, leaving it silky and soft.',
 		filtros: ['Profissional'],
 		versões: 'Version: Fl.oz 35.27 - Professional',
@@ -146,7 +146,7 @@ export const ProdutosEnData = [
 	{
 		id: 8, // auto increment
 		idproduto: 4,
-		title: 'BIO KERATRIX HYDRATATION MASK',
+		title: 'BIO KERATRIX HYDRATION MASK',
 		descricao: 'It contains a larger amount of D-panthenol than is commonly used in addition to keratin.   Recommended for those looking for an impeccable and durable smooth. Its formulation prevents the appearance of split ends, improves the texture of the hair and contributes to the thickening of the hair, offering more strength and shine to the locks.',
 		filtros: ['HomeCare'],
 		versões: 'Version: Fl.oz 8,81  – Home Care',
@@ -157,7 +157,7 @@ export const ProdutosEnData = [
 	{
 		id: 9, // auto increment
 		idproduto: 4,
-		title: 'BIO KERATRIX HYDRATATION MASK',
+		title: 'BIO KERATRIX HYDRATION MASK',
 		descricao: 'It contains a larger amount of D-panthenol than is commonly used in addition to keratin.   Recommended for those looking for an impeccable and durable smooth. Its formulation prevents the appearance of split ends, improves the texture of the hair and contributes to the thickening of the hair, offering more strength and shine to the locks.',
 		filtros: ['Profissional'],
 		versões: 'Version: Fl.oz 35.27 - Professional',
@@ -172,7 +172,7 @@ export const ProdutosEnData = [
 	{
 		id: 10, // auto increment
 		idproduto: 5,
-		title: 'HYDRATATION MASK INFINITY ONE GOLD',
+		title: 'HYDRATION MASK INFINITY ONE GOLD',
 		descricao: 'It contains an exclusive formula composed of proteins and structural amino acids (Seine, Glutamic Acid and Cysteine), performing Biomimetic repair.  Its main asset ReparAge penetrates deeply into the hair promoting the increase in the diameter of the hair with prolonged use of the product.  With Pro Filler effect that repairs the natural aging of the hair leaving it as new, helping in capillary reconstruction, with antioxidant that repairs, prevents the aging of the hair.  Hair with a silky touch keeping it frizz-free.',
 		filtros: ['HomeCare'],
 		versões: 'Version: Fl.oz 8,81 – Home Care',
@@ -183,7 +183,7 @@ export const ProdutosEnData = [
 	{
 		id: 11, // auto increment
 		idproduto: 5,
-		title: 'HYDRATATION MASK INFINITY ONE GOLD',
+		title: 'HYDRATION MASK INFINITY ONE GOLD',
 		descricao: 'It contains an exclusive formula composed of proteins and structural amino acids (Seine, Glutamic Acid and Cysteine), performing Biomimetic repair.  Its main asset ReparAge penetrates deeply into the hair promoting the increase in the diameter of the hair with prolonged use of the product.  With Pro Filler effect that repairs the natural aging of the hair leaving it as new, helping in capillary reconstruction, with antioxidant that repairs, prevents the aging of the hair.  Hair with a silky touch keeping it frizz-free.',
 		filtros: ['Profissional'],
 		versões: 'Version: Fl.oz 35.27 - Professional',
@@ -215,8 +215,8 @@ export const ProdutosEnData = [
 	{
 		id: 13, // auto increment
 		idproduto: 8,
-		title: 'SHAMPOO E LIQUID MASK - VIOLET SILK PROTEIN',
-		descricao: 'Violeta Seda Protein Facinnius acts on two important factors for bleached hair: uniform color and hydration.  Its nanotechnological pigments remove the yellowness of the blonde strands, giving the hair a platinum appearance.  In addition, it moisturizes and provides more elasticity to the wires.',
+		title: 'SHAMPOO AND LIQUID MASK - VIOLET SILK PROTEIN',
+		descricao: 'Violet Silk Protein Facinnius acts on two important factors for bleached hair: uniform color and hydration.  Its nanotechnological pigments remove the yellowness of the blonde strands, giving the hair a platinum appearance.  In addition, it moisturizes and provides more elasticity to the wires.',
 		filtros: ['HomeCare'],
 		versões: 'Version: Fl.oz 10,14 - Home Care',
 		colecao: [item8],
@@ -226,8 +226,8 @@ export const ProdutosEnData = [
 	{
 		id: 14, // auto increment
 		idproduto: 8,
-		title: 'SHAMPOO E LIQUID MASK - VIOLET SILK PROTEIN',
-		descricao: 'Violeta Seda Protein Facinnius acts on two important factors for bleached hair: uniform color and hydration.  Its nanotechnological pigments remove the yellowness of the blonde strands, giving the hair a platinum appearance.  In addition, it moisturizes and provides more elasticity to the wires.',
+		title: 'SHAMPOO AND LIQUID MASK - VIOLET SILK PROTEIN',
+		descricao: 'Violet Silk Protein Facinnius acts on two important factors for bleached hair: uniform color and hydration.  Its nanotechnological pigments remove the yellowness of the blonde strands, giving the hair a platinum appearance.  In addition, it moisturizes and provides more elasticity to the wires.',
 		filtros: ['Profissional'],
 		versões: 'Version: Fl.oz 33,81 - Professional',
 		colecao: [item8_1, item8_2],
@@ -257,8 +257,8 @@ export const ProdutosEnData = [
 	{
 		id: 16, // auto increment
 		idproduto: 10,
-		title: 'REDUTOR DE VOLUME ILUMMINI',
-		descricao: 'A Ilummini Facinnius é um redutor de volume indicado para realização de progressivas orgânicas. Sem formol esse produto alisa os cabelos elimina o frizz e garante um liso duradouro sem agredir a fibra capilar.  As proteínas encontradas em sua fórmula nutrem e hidratam os fios, unindo beleza e saúde para os cabelos. INDICADO PARA REDUÇÃO DE VOLUME.',
+		title: 'ILUMMINI VOLUME REDUCER',
+		descricao: 'The ilummini Facinnius is a volume reducer indicated for organic progressives. Without formaldehyde, this product straightens the hair, eliminates frizz and ensures a long-lasting straight without harming the hair fiber. The proteins found in its formula nourish and hydrate the hair, uniting beauty and health for the hair.',
 		filtros: ['Profissional'],
 		versões: 'Version: Fl.oz 33,81 - Professional',
 		colecao: [item10],
@@ -271,7 +271,7 @@ export const ProdutosEnData = [
 		id: 17, // auto increment
 		idproduto: 11,
 		title: 'OX DEVELOPER EMULSION',
-		descricao: 'The OX Facinnius Revealing Emulsion has 5 different volumes (05%, 10%, 20%, 30%, 40%) and was designed to be used in conjunction with bleaching and coloring, enhancing its action.  It comes in a cream texture and contains amino acids that restore the hair properties that are lost during chemical processes, keeping the hair hydrated and preventing the wires from  fraying.',
+		descricao: 'The OX Facinnius Revealing Emulsion has 5 different volumes (05%, 10%, 20%, 30%, 40%) and was designed to be used in conjunction with bleaching and coloring, enhancing its action.  It comes in a cream texture and contains amino acids that restore the hair properties that are lost during chemical processes, keeping the hair hydrated and preventing the strands from  fraying.',
 		filtros: ['Profissional'],
 		versões: 'Version: Fl.oz 30,43 - Professional',
 		colecao: [item11],
@@ -298,7 +298,7 @@ export const ProdutosEnData = [
 		id: 19, // auto increment
 		idproduto: 13,
 		title: 'DESCOLOR WHITE BLEACHING POWDER',
-		descricao: 'The Descolor Facinnius  lightens up to 9 shades with extreme safety and flexibility for the professional.  Facinnius created the exclusive K-COMPLEX technology that has several treatment substances that preserve the hair s moisture, maintaining its structure.  Controlled discoloration to be used in all application techniques.',
+		descricao: 'The Descolor Facinnius  lightens up to 9 shades with extreme safety and flexibility for the professional. Facinnius created the exclusive K-COMPLEX technology that has several treatment substances that preserve the hair moisture, maintaining its structure.  Controlled discoloration to be used in all application techniques.',
 		filtros: ['Profissional'],
 		versões: 'Version: Fl.oz 17,63 - Professional',
 		colecao: [item13],
@@ -309,7 +309,7 @@ export const ProdutosEnData = [
 		id: 20, // auto increment
 		idproduto: 13,
 		title: 'DESCOLOR EASY BLEACHING POWDER',
-		descricao: 'The Descolor Facinnius  lightens up to 9 shades with extreme safety and flexibility for the professional.  Facinnius created the exclusive K-COMPLEX technology that has several treatment substances that preserve the hair s moisture, maintaining its structure.  Controlled discoloration to be used in all application techniques.',
+		descricao: 'The Descolor Facinnius  lightens up to 9 shades with extreme safety and flexibility for the professional. Facinnius created the exclusive K-COMPLEX technology that has several treatment substances that preserve the hair moisture, maintaining its structure.  Controlled discoloration to be used in all application techniques.',
 		filtros: ['Profissional'],
 		versões: 'Version: Fl.oz 17,63 - Professional',
 		colecao: [item13_1],
@@ -387,7 +387,7 @@ export const ProdutosEnData = [
 	{
 		id: 26, // auto increment
 		idproduto: 19,
-		title: 'SHAMPOO AND CONDITIONER - RECOVERY CUPUAÇU',
+		title: 'RECOVERY CUPUAÇU SHAMPOO AND CONDITIONER',
 		descricao: 'Ideal for chemically treated hair, Recovery Cupuaçu Facinnius has Biorestore and Poliquartenium 10, ingredients that moisturize, condition and repair damaged hair. It can be used after relaxation and discoloration, helping to rebuild the hair fiber.',
 		filtros: ['HomeCare'],
 		versões: 'Version: Fl.oz 10,14 – Home Care/Professional',
@@ -401,7 +401,7 @@ export const ProdutosEnData = [
 		id: 27, // auto increment
 		idproduto: 20,
 		title: 'KIT EFFECT LISS',
-		descricao: 'The Facinnius effect liss kit promotes a prolonged smooth effect for the hair. It has high molecular nano technology ideal for hair with progressive and chemically treated. Its formula seals the hair cuticles, deeply repairing the hair fiber, in addition to controlling the volume and aligning the hair.',
+		descricao: 'The Facinnius effect liss kit promotes a prolonged smooth effect for the hair. It has high molecular nano technology ideal for hair with progressive and chemically treated. Its formula seals the hair cuticles deeply, repairing the hair fiber, in addition to controlling the volume and aligning the hair.',
 		filtros: ['HomeCare'],
 		versões: 'Version: Fl.oz 10,14 – Professional',
 		colecao: [item20],
@@ -440,7 +440,7 @@ export const ProdutosEnData = [
 		id: 30, // auto increment
 		idproduto: 23,
 		title: 'SHAMPOO AND CONDITIONER - INFINITY REPAIR',
-		descricao: 'The Infinity Repair Facinnis line has an exclusive formula with 3 essential proteins (wheat, milk and silk), which attributes benefits such as strength improvement, volume increase and conditioning. The 3 joints combined with a formulation rich in ingredients that restore the hydration of the wires., indispensable for those who want shiny, healthy and soft hair.',
+		descricao: 'The Infinity Repair Facinnius line has an exclusive formula with 3 essential proteins (wheat, milk and silk), which attributes benefits such as strength improvement, volume increase and conditioning. The 3 joints combined with a formulation rich in ingredients that restore the hydration of the strands, indispensable for those who want shiny, healthy and soft hair.',
 		filtros: ['HomeCare'],
 		versões: 'Version: Fl.oz 10,14 – Home Care/Professional',
 		colecao: [item23],
@@ -516,8 +516,8 @@ export const ProdutosEnData = [
 	{
 		id: 36, // auto increment
 		idproduto: 28,
-		title: 'REPAIRMAN - ARGAN',
-		descricao: 'Argan Facinnius oil is a powerful repairer, has high levels of essential fatty acids, omega 6 and vitamins A, De E. Improving the elasticity of the hair providing diamond shine and prolonged softness.',
+		title: 'ARGAN OIL',
+		descricao: 'Argan Oil Facinnius oil is a powerful repairer, has high levels of essential fatty acids, omega 6 and vitamins A, De E. Improving the elasticity of the hair providing diamond shine and prolonged softness.',
 		filtros: ['Profissional'],
 		versões: 'Version: Fl.oz 3,84 - Professional',
 		colecao: [item28_1],
@@ -527,8 +527,8 @@ export const ProdutosEnData = [
 	{
 		id: 37, // auto increment
 		idproduto: 28,
-		title: 'REPAIRMAN - ARGAN',
-		descricao: 'Argan Facinnius oil is a powerful repairer, has high levels of essential fatty acids, omega 6 and vitamins A, De E. Improving the elasticity of the hair providing diamond shine and prolonged softness.',
+		title: 'ARGAN OIL',
+		descricao: 'Argan Oil Facinnius oil is a powerful repairer, has high levels of essential fatty acids, omega 6 and vitamins A, De E. Improving the elasticity of the hair providing diamond shine and prolonged softness.',
 		filtros: ['HomeCare'],
 		versões: 'Version: Fl.oz 1,01 - Home Care',
 		colecao: [item28_2],
@@ -540,8 +540,8 @@ export const ProdutosEnData = [
 	{
 		id: 38, // auto increment
 		idproduto: 29,
-		title: 'REPAIRMAN - OJON',
-		descricao: 'Rich in amino acids, antioxidants and lipids, the repairer Ojon Facinnius presents an ideal formula for very dry and deeply damaged hair, as it acts on the fiber recovering hair cells.  It guarantees shine and resistance to the hair , preventing it  from becoming brittle and opaque.',
+		title: 'OJON OIL',
+		descricao: 'Rich in amino acids, antioxidants and lipids, the Ojon Oil Facinnius presents an ideal formula for very dry and deeply damaged hair, as it acts on the fiber recovering hair cells.  It guarantees shine and resistance to the hair , preventing it  from becoming brittle and opaque.',
 		filtros: ['Profissional'],
 		versões: 'Version: Fl.oz 3,84 - Professional',
 		colecao: [item29_1],
@@ -551,8 +551,8 @@ export const ProdutosEnData = [
 	{
 		id: 39, // auto increment
 		idproduto: 29,
-		title: 'REPAIRMAN - OJON',
-		descricao: 'Rich in amino acids, antioxidants and lipids, the repairer Ojon Facinnius presents an ideal formula for very dry and deeply damaged hair, as it acts on the fiber recovering hair cells.  It guarantees shine and resistance to the hair , preventing it  from becoming brittle and opaque.',
+		title: 'OJON OIL',
+		descricao: 'Rich in amino acids, antioxidants and lipids, the Ojon Oil Facinnius presents an ideal formula for very dry and deeply damaged hair, as it acts on the fiber recovering hair cells.  It guarantees shine and resistance to the hair , preventing it  from becoming brittle and opaque.',
 		filtros: ['HomeCare'],
 		versões: 'Version: Fl.oz 1,01 - Home Care',
 		colecao: [item29_2],
@@ -564,8 +564,8 @@ export const ProdutosEnData = [
 	{
 		id: 40, // auto increment
 		idproduto: 30,
-		title: 'REPAIRMAN - NOBLE SILICONES',
-		descricao: 'Produced with the best silicones on the market, the repairer Silicones Nobres Facinnius moisturizes the hair and has a protective action against external agents. It enhances the shine of the hair leaving it light and disciplined.',
+		title: 'NOBLE SILICONES OIL',
+		descricao: 'Produced with the best silicones on the market, the Noble Silicones Oil Facinnius moisturizes the hair and has a protective action against external agents. It enhances the shine of the hair leaving it light and disciplined.',
 		filtros: ['Profissional'],
 		versões: 'Version: Fl.oz 3,84 - Professional',
 		colecao: [item30_1],
@@ -575,8 +575,8 @@ export const ProdutosEnData = [
 	{
 		id: 41, // auto increment
 		idproduto: 30,
-		title: 'REPAIRMAN - NOBLE SILICONES',
-		descricao: 'Produced with the best silicones on the market, the repairer Silicones Nobres Facinnius moisturizes the hair and has a protective action against external agents. It enhances the shine of the hair leaving it light and disciplined.',
+		title: 'NOBLE SILICONES OIL',
+		descricao: 'Produced with the best silicones on the market, the Noble Silicones Oil Facinnius moisturizes the hair and has a protective action against external agents. It enhances the shine of the hair leaving it light and disciplined.',
 		filtros: ['HomeCare'],
 		versões: 'Version: Fl.oz 1,01 - Home Care',
 		colecao: [item30_2],
@@ -634,8 +634,8 @@ export const ProdutosEnData = [
 	{
 		id: 46, // auto increment
 		idproduto: 35,
-		title: 'BLACKBERRY SHAMPOO WITH POMEGRANATE',
-		descricao: 'Amora Shampoo with Pomegranate Facinnius, was developed with a special formula, helping in the treatment of hair, protecting, hydrating and with a lot of shine for much longer. Yields more than 330 applications. Exclusive for washbasins.',
+		title: 'BLACKBERRY WITH POMEGRANATE SHAMPOO',
+		descricao: 'Blackberry With Pomegranate Shampoo Facinnius, was developed with a special formula, helping in the treatment of hair, protecting, hydrating and with a lot of shine for much longer. Yields more than 330 applications. Exclusive for washbasins.',
 		filtros: ['Profissional'],
 		versões: 'Version: Fl.oz 169,07 - Professional',
 		colecao: [item35],
@@ -644,8 +644,8 @@ export const ProdutosEnData = [
 	{
 		id: 47, // auto increment
 		idproduto: 35,
-		title: 'BLACKBERRY CONDITIONER WITH POMEGRANATE',
-		descricao: 'The Blackberry Conditioner with Pomegranate Facinnius, was developed with a special formula, helping in the treatment of hair, protecting and hydrating for much longer. Yields more than 330 applications. Exclusive for washbasins.',
+		title: 'BLACKBERRY WITH POMEGRANATE CONDITIONER',
+		descricao: 'Blackberry With Pomegranate Conditioner Facinnius, was developed with a special formula, helping in the treatment of hair, protecting and hydrating for much longer. Yields more than 330 applications. Exclusive for washbasins.',
 		filtros: ['Profissional'],
 		versões: 'Version: Fl.oz 169,07 - Professional',
 		colecao: [item35_1],
@@ -657,8 +657,8 @@ export const ProdutosEnData = [
 	{
 		id: 48, // auto increment
 		idproduto: 36,
-		title: 'RECOVERY SHAMPOO CUPUAÇU',
-		descricao: 'The Cupuaçu Facinnius Recovery Shampoo, has a special formula, leaving your hair light and loose, returning its natural shine. Yields more than 330 applications. Exclusive for washbasins.',
+		title: 'CUPUAÇU RECOVERY SHAMPOO',
+		descricao: 'The Cupuaçu Recovery Shampoo Facinnius, has a special formula, leaving your hair light and loose, returning its natural shine. Yields more than 330 applications. Exclusive for washbasins.',
 		filtros: ['Profissional'],
 		versões: 'Version: Fl.oz 169,07 - Professional',
 		colecao: [item36],
@@ -667,8 +667,8 @@ export const ProdutosEnData = [
 	{
 		id: 49, // auto increment
 		idproduto: 36,
-		title: 'CONDITIONER RECOVERY CUPUAÇU',
-		descricao: 'The Conditioner Recovery Cupuaçu Facinnius, has a special formula, leaving your hair light and loose, returning the natural shine. Yields more than 330 applications. Exclusive for washbasins.',
+		title: 'CUPUAÇU RECOVERY CONDITIONER ',
+		descricao: 'The Cupuaçu Recovery Conditioner Facinnius, has a special formula, leaving your hair light and loose, returning the natural shine. Yields more than 330 applications. Exclusive for washbasins.',
 		filtros: ['Profissional'],
 		versões: 'Version: Fl.oz 169,07 - Professional',
 		colecao: [item36_1],
@@ -679,8 +679,8 @@ export const ProdutosEnData = [
 	{
 		id: 50, // auto increment
 		idproduto: 37,
-		title: 'BLUEBERRY SHAMPOO WITH SEMI DE LINO',
-		descricao: 'The Blueberry Shampoo with Semi de Lino Facinnius, has a special formula, rich in nutrients and vitamins, leaving your hair hydrated, soft and revitalized with intense shine. Yields more than 330 applications. Exclusive for washbasins.',
+		title: 'BLUEBERRY WITH SEMI DE LINO SHAMPOO',
+		descricao: 'The Blueberry with Semi de Lino Shampoo Facinnius, has a special formula, rich in nutrients and vitamins, leaving your hair hydrated, soft and revitalized with intense shine. Yields more than 330 applications. Exclusive for washbasins.',
 		filtros: ['Profissional'],
 		versões: 'Version: Fl.oz 169,07 - Professional',
 		colecao: [item37],
@@ -689,8 +689,8 @@ export const ProdutosEnData = [
 	{
 		id: 51, // auto increment
 		idproduto: 37,
-		title: 'BLUEBERRY CONDITIONER WITH SEMI DE LINO',
-		descricao: 'The Blueberry Conditioner with Semi de Lino, has a special formula, rich in nutrients and vitamins, leaving your hair hydrated, soft and revitalized with intense shine. Yields more than 330 applications. Exclusive for washbasins.',
+		title: 'BLUEBERRY WITH SEMI DE LINO CONDITIONER',
+		descricao: 'The Blueberry with Semi de Lino Conditioner, has a special formula, rich in nutrients and vitamins, leaving your hair hydrated, soft and revitalized with intense shine. Yields more than 330 applications. Exclusive for washbasins.',
 		filtros: ['Profissional'],
 		versões: 'Version: Fl.oz 169,07 - Professional',
 		colecao: [item37_1],
@@ -701,8 +701,8 @@ export const ProdutosEnData = [
 	{
 		id: 52, // auto increment
 		idproduto: 38,
-		title: 'MINT SHAMPOO WITH MALLOW',
-		descricao: 'Mint Shampoo with Mallow Facinnius was developed in a special formula that also has antioxidant properties, keeping the strands hydrated and protected for longer. Yields more than 330 applications. Exclusive for washbasins.',
+		title: 'MINT WITH MALLOW SHAMPOO',
+		descricao: 'Mint with Mallow Shampoo Facinnius was developed in a special formula that also has antioxidant properties, keeping the strands hydrated and protected for longer. Yields more than 330 applications. Exclusive for washbasins.',
 		filtros: ['Profissional'],
 		versões: 'Version: Fl.oz 169,07 - Professional',
 		colecao: [item38],
@@ -711,8 +711,8 @@ export const ProdutosEnData = [
 	{
 		id: 53, // auto increment
 		idproduto: 38,
-		title: 'MINT CONDITIONER WITH MALLOW',
-		descricao: 'The Mint Conditioner with Mallow Facinnius, was developed in a special formula that also has antioxidant properties, keeping the strands hydrated and protected for longer. Yields more than 330 applications. Exclusive for washbasins.',
+		title: 'MINT WITH MALLOW CONDITIONER',
+		descricao: 'The Mint with Mallow Conditioner Facinnius, was developed in a special formula that also has antioxidant properties, keeping the strands hydrated and protected for longer. Yields more than 330 applications. Exclusive for washbasins.',
 		filtros: ['Profissional'],
 		versões: 'Version: Fl.oz 169,07 - Professional',
 		colecao: [item38_1],
@@ -722,8 +722,8 @@ export const ProdutosEnData = [
 	{
 		id: 54, // auto increment
 		idproduto: 39,
-		title: 'SHAMPOO CRISTAL',
-		descricao: 'SHAMPOO CRISTAL FACINNIUS - It has an exclusive formula that provides clean, hydrated, soft strands with a differentiated shine, perfect for all types of hair, even the most fragile ones. Yields more than 330 applications. Exclusive for washbasins.',
+		title: 'CRYSTAL SHAMPOO',
+		descricao: 'CRYSTAL SHAMPOO FACINNIUS - It has an exclusive formula that provides clean, hydrated, soft strands with a differentiated shine, perfect for all types of hair, even the most fragile ones. Yields more than 330 applications. Exclusive for washbasins.',
 		filtros: ['Profissional'],
 		versões: 'Version: Fl.oz 169,07 - Professional',
 		colecao: [item39],
