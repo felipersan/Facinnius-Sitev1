@@ -400,8 +400,8 @@ export const ProdutosEnData = [
 	{
 		id: 27, // auto increment
 		idproduto: 20,
-		title: 'KIT EFFECT LISS',
-		descricao: 'The Facinnius effect liss kit promotes a prolonged smooth effect for the hair. It has high molecular nano technology ideal for hair with progressive and chemically treated. Its formula seals the hair cuticles deeply, repairing the hair fiber, in addition to controlling the volume and aligning the hair.',
+		title: 'EFFECT LISS',
+		descricao: 'The Facinnius effect liss promotes a prolonged smooth effect for the hair. It has high molecular nano technology ideal for hair with progressive and chemically treated. Its formula seals the hair cuticles deeply, repairing the hair fiber, in addition to controlling the volume and aligning the hair.',
 		filtros: ['HomeCare'],
 		versões: 'Version: Fl.oz 10,14 – Professional',
 		colecao: [item20],
